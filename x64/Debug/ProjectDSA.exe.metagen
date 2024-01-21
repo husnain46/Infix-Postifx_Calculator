@@ -1,0 +1,67 @@
+  ProjectDSA.MainForm.resources - Embedded, ContainedInManifestFile, 
+  ProjectDSA.UC_convert.resources - Embedded, ContainedInManifestFile, 
+  ProjectDSA.UC_evaluate.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ProjectDSA, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ?A0x4906e7a9.UC_convert: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    push(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    pop(): PrivateScope, Public, HideBySig
+    is_Operator(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    is_Operand(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    IsNumericDigit(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    opt_precedence(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    precedence_check(Char(HasFieldMarshal), Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    infix_postfix(String): PrivateScope, Public, HideBySig
+Class ?A0x4906e7a9.UC_evaluate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    top2_(): PrivateScope, Public, HideBySig
+    push(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    pop(): PrivateScope, Public, HideBySig
+    IsNumericDigit(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    IsOperator(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    PerformOperation(Char(HasFieldMarshal), Int32, Int32): PrivateScope, Public, HideBySig
+    EvaluatePostfix(String): PrivateScope, Public, HideBySig
+Class ProjectDSA.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ?A0x4c7cab9b.UC_convert: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    push(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    pop(): PrivateScope, Public, HideBySig
+    is_Operator(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    is_Operand(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    IsNumericDigit(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    opt_precedence(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    precedence_check(Char(HasFieldMarshal), Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    infix_postfix(String): PrivateScope, Public, HideBySig
+Class ?A0x032a4859.UC_evaluate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    top2_(): PrivateScope, Public, HideBySig
+    push(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    pop(): PrivateScope, Public, HideBySig
+    IsNumericDigit(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    IsOperator(Char(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    PerformOperation(Char(HasFieldMarshal), Int32, Int32): PrivateScope, Public, HideBySig
+    EvaluatePostfix(String): PrivateScope, Public, HideBySig

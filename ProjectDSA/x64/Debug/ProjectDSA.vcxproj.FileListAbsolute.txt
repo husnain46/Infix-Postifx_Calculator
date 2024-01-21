@@ -1,0 +1,24 @@
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.AssemblyReference.cache
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.SuggestedBindingRedirects.cache
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.MainForm.resources
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.GenerateResource.cache
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.UC_convert.resources
+D:\New folder\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.UC_evaluate.resources
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.AssemblyReference.cache
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.SuggestedBindingRedirects.cache
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.MainForm.resources
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.UC_convert.resources
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.UC_evaluate.resources
+B:\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.GenerateResource.cache
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.AssemblyReference.cache
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.MainForm.resources
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.UC_convert.resources
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.UC_evaluate.resources
+C:\Users\Husnain\Downloads\ProjectDSA_\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.GenerateResource.cache
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.AssemblyReference.cache
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.SuggestedBindingRedirects.cache
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.MainForm.resources
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.UC_convert.resources
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.UC_evaluate.resources
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\x64\Debug\ProjectDSA.vcxproj.GenerateResource.cache

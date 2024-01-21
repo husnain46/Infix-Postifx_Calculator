@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\UC_evaluate.h(96,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\MainForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  UC_evaluate.cpp
+D:\DSA TASKS\Final Project\ProjectDSA\ProjectDSA\UC_evaluate.h(96,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectDSA.vcxproj -> D:\DSA TASKS\Final Project\ProjectDSA\x64\Debug\ProjectDSA.exe
